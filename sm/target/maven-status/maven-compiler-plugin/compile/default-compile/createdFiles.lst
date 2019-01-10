@@ -1,0 +1,7 @@
+com\itela\sm\configuration\HibernateConfiguration.class
+com\itela\sm\configuration\CORSFilter.class
+com\itela\sm\aspect\LogingAspect.class
+com\itela\sm\configuration\AppConfig.class
+com\itela\sm\dao\AbstractDao.class
+com\itela\sm\configuration\AppInitializer.class
+com\itela\sm\controller\UserController.class
